@@ -1,0 +1,6 @@
+date,product,category,quantity,price
+2023-01-01,Laptop,Electronics,2,1000
+2023-01-01,Phone,Electronics,5,500
+2023-01-02,Laptop,Electronics,3,1000
+2023-01-02,Tablet,Electronics,4,300
+2023-01-03,Phone,Electronics,6,500
